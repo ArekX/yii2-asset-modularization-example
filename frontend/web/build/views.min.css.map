@@ -1,1 +1,0 @@
-{"version":3,"sources":["site/index.scss"],"names":[],"mappings":"CAAA,AACA,cADA,CAAA,eAAA,GACA,YAAA,EAAA;EACA,SAAA,EAAA,IAAA;EACA,WAAA,EAAA,IAAA;EACA,KAAA,EAAA,OAAA,GACA","file":"views.min.css","sourcesContent":["[data-page-view=\"index-main-js\"] {\r\n  [data-to-text] {\r\n     font-size: 16px;\r\n     font-weight: bold;\r\n     color: #c9302c;\r\n  }\r\n}"]}
